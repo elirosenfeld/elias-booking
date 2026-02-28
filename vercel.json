@@ -15,13 +15,5 @@
       "src": "/(.*)",
       "dest": "/index.html"
     }
-  ],
-  "functions": {
-    "api/availability.js": {
-      "maxDuration": 10
-    },
-    "api/book.js": {
-      "maxDuration": 10
-    }
-  }
+  ]
 }
