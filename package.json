@@ -1,0 +1,13 @@
+{
+  "name": "elias-booking-system",
+  "version": "1.0.0",
+  "description": "Free Calendly alternative for Elias Rosenfeld",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["booking", "calendar", "scheduling", "stanford", "gsb"],
+  "author": "Elias Rosenfeld",
+  "license": "MIT"
+}
